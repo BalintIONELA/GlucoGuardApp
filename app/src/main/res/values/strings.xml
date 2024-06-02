@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">GlucoGuard</string>
+
+    <!--    Generics-->
+    <string name="text_email">E-mail</string>
+    <string name="text_email_hint">email@email.com</string>
+    <string name="text_password">Password</string>
+    <string name="text_password_hint">******</string>
+    <string name="text_register_account">Create account</string>
+    <string name="error_generic">An error has occurred, please try again later.</string>
+    <string name="text_button_confirm">Confirm</string>
+    <string name="text_task_delete_sucess">Removed successfully.</string>
+    <string name="text_task_update_sucess">Updated successfully.</string>
+
+    <!--    Login Fragment-->
+    <string name="text_btn_login_fragment">Login</string>
+    <string name="text_recover_login_fragment">Recover account</string>
+    <string name="text_password_empty_login_fragment">Enter your password.</string>
+    <string name="text_email_empty_login_fragment">Enter your e-mail address.</string>
+
+    <!--    Register Fragment-->
+    <string name="text_password_empty_register_fragment">Enter your password.</string>
+    <string name="text_email_empty_register_fragment">Enter your e-mail address.</string>
+
+    <!--    Recover Account Fragment-->
+    <string name="text_toolbar_recover_account_fragment">Recover account</string>
+    <string name="text_btn_recover_account_fragment">Submit</string>
+    <string name="text_email_empty_recover_account_fragment">Enter your e-mail address.</string>
+    <string name="text_email_send_sucess_recover_account_fragment">OK, we have just sent a link to your e-mail address.</string>
+
+    <!--    Errors Firebase Authentication-->
+    <string name="account_not_registered_register_fragment">No account found with this email.</string>
+    <string name="invalid_email_register_fragment">Enter a valid e-mail address.</string>
+    <string name="invalid_password_register_fragment">Invalid password, please try again.</string>
+    <string name="email_in_use_register_fragment">This e-mail is already used.</string>
+    <string name="strong_password_register_fragment">Enter a stronger password.</string>
+
+    <!--    Forms Fragment-->
+    <string name="text_title_form_fragment">New</string>
+    <string name="text_description_form_fragment">Description</string>
+    <string name="text_description_hint_form_fragment">type here...</string>
+    <string name="text_editing_form_fragment">Editing...</string>
+    <string name="text_status_form_fragment">Status</string>
+    <string name="text_btn_save_form_fragment">Save</string>
+    <string name="text_description_empty_form_fragment">Enter the requested information.</string>
+    <string name="text_save_sucess_form_fragment">Saved successfully.</string>
+    <string name="text_update_sucess_form_fragment">Updated successfully.</string>
+    <string name="text_error_save_form_fragment">Error while saving.</string>
+
+    <!--    Options-->
+    <string name="option_medication">Medicines</string>
+    <string name="option_glycemia">Glycemia</string>
+    <string name="option_diet">Diet</string>
+
+    <!--    Medication Fragment-->
+    <string name="text_medication_list_empty_fragment">No medication registered.</string>
+    <string name="text_message_delete_medication_fragment">Do you really want to remove this medicine?</string>
+
+    <!--    Glycemia Fragment-->
+    <string name="text_glycemia_list_empty_fragment">No glycemia recorded.</string>
+    <string name="text_message_delete_glycemia_fragment">Do you really want to remove this glycemia?</string>
+
+    <!--    Diet Fragment-->
+    <string name="text_diet_list_empty_fragment">No meal registered.</string>
+    <string name="text_message_delete_diet_fragment">Do you really want to remove this meal?</string>
+
+    <!--    Home Fragment-->
+    <string name="txt_message_logout">Do you really want to quit?</string>
+
+    <!--    Calc Insulin Fragment-->
+    <string name="hint_weight">Your Weight (Kg)</string>
+    <string name="hint_carbohydrates">Carbohydrates (g)</string>
+    <string name="text_buttom_calculate">Calculate Insulin Dosage</string>
+    <string name="text_buttom_reminder">Reminder</string>
+    <string name="text_buttom_alarm">Alarm</string>
+    <string name="text_hour">00</string>
+    <string name="text_two_points">:</string>
+    <string name="text_minutes">00</string>
+    <string name="toast_inform_weight">Enter your weight!</string>
+    <string name="toast_inform_carbohydrates">Enter the amount of carbohydrates!</string>
+    <string name="dialog_title">Reset data</string>
+    <string name="dialog_desc">Do you want to delete all existing data?</string>
+    <string name="alarm_message">Time to take your insulin!</string>
+
+    <!--    BottomSheet-->
+    <string name="text_title_bottom_sheet">Warning</string>
+    <string name="text_button_bottom_sheet">Got it</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dd">dd</string>
+    <string name="mm">mm</string>
+    <string name="aaaa">aaaa</string>
+
+</resources>
